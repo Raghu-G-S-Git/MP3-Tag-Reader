@@ -69,8 +69,8 @@ MP3-Tag-Reader/
 ├── main.c             # Entry point for the application
 ├── functions.c        # Contains logic for viewing/editing tags
 ├── headers.h          # Header file with declarations
-├── sample.mp3         # Test MP3 file
-├── shape_of_you.mp3   # Another test file
+├── sample.mp3         # Test MP3 file (acceptable)
+├── shape_of_you.mp3   # Another test file (non-acceptable)
 ├── README.md          # Project documentation
 └── .vscode/           # (Optional) VS Code settings
 ```
